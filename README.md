@@ -16,7 +16,7 @@ The "Advertisement" dataset can be used for training and testing purpose and "Va
 **Code**
 There are 2 files attached.
 
-1) "linearregression": This app I have created for training and testing the model.
+1) "trainandtest": This app I have created for training and testing the model.
 2) "modelprediction": This app is used for making predictions on unseen data.
 
 **Tools used**
